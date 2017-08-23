@@ -1,0 +1,12 @@
+{
+    "name": "fwcommunity/magento_fw_productCustom_CE",
+    "description": "F+W Media: Magento productCustom Module",
+    "license": "OSL-3.0",
+    "authors": [
+        { "name": "Frank", "email": "frank@saltcitydigital.com", "role": "Developer" }
+    ],
+    "type": "magento-module",
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
